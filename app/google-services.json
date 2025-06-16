@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "460865361342",
+    "project_id": "maxmente-e683e",
+    "storage_bucket": "maxmente-e683e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460865361342:android:5098182e2cadc8c5b055ef",
+        "android_client_info": {
+          "package_name": "com.maxpro.maxmente"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1AUHJ7h0fRQLDqmybxs69sIOARm7ohSs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
